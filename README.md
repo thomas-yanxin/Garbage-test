@@ -390,7 +390,7 @@ if __name__ == '__main__':
 
 ![口唇膏](https://img-blog.csdnimg.cn/20201128145311788.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01lZmlzaGVz,size_16,color_FFFFFF,t_70)![干电池](https://img-blog.csdnimg.cn/20201128145311622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01lZmlzaGVz,size_16,color_FFFFFF,t_70)
 ![旧衣服](https://img-blog.csdnimg.cn/20201128145309905.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01lZmlzaGVz,size_16,color_FFFFFF,t_70)
-![塑料袋](https://img-blog.csdnimg.cn/20201128145308310.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01lZmlzaGVz,size_16,color_FFFFFF,t_70)
+
 
 
 # 未来展望
