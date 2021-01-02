@@ -47,11 +47,11 @@ model=pdx.cls.ResNet50_vd_ssld(num_classes=num_classes)
 
 model.train(num_epochs=300,
         train_dataset=train_dataset,
-        train_batch_size=32,
+        train_batch_size=128,
         eval_dataset=eval_dataset,
-        lr_decay_epochs=[4,6,8],
-        save_interval_epochs=1,
-        learning_rate=0.001,
+        lr_decay_epochs=[80,100,150],
+        save_interval_epochs=5,
+        learning_rate=0.002,
         save_dir='output/ResNet50_vd_ssld',
         use_vdl=True
 )
