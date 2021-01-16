@@ -144,8 +144,8 @@ print(f'The identification credibility is {score}')
 #         #获取token秘钥
 #         body = {
 #             "grant_type"    : "client_credentials",
-#             "client_id"     : "dd1YQChEGmrvu7jbsTfO0x2h",
-#             "client_secret" : "C5RmMj8aO8VuZjOrhhruxENYZ2DUgXZs"
+#             "client_id"     : "*******************************",
+#             "client_secret" : "*******************************"
 #         }
 #         url  = "https://aip.baidubce.com/oauth/2.0/token?"
 #         r = requests.post(url,data=body,verify=True,timeout=2)
