@@ -35,7 +35,7 @@ def garbage_test():
     
     # fgbg = cv2.createBackgroundSubtractorMOG2(detectShadows = False)
     
-    img_back=cv2.imread('/home/thomas/下载/QQ图片20201211233654.png')
+#     img_back=cv2.imread('/home/thomas/下载/QQ图片20201211233654.png')
 
     while (1):
         # get a frame
